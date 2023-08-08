@@ -1,0 +1,1 @@
+export const SHEETS_URL = "https://docs.google.com/spreadsheets/d/e/2PACX-1vTr_46sIx19rnBuLQaqI8_KHGn3E5uospnGf7PCs7vGVPYb2RF9nAaOadJZdRXElTmTbiJe5k4ERFzh/pub?gid=0&single=true&output=csv"
