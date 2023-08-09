@@ -2,7 +2,7 @@
 @tailwind components;
 @tailwind utilities;
 
-@import url("https://fonts.googleapis.com/css2?family=Roboto+Mono&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Space+Grotesk&display=swap");
 
 :root {
   margin: 0;
@@ -13,7 +13,7 @@ html,
 body {
   margin: 0;
   padding: 0;
-  background-color: rgb(80, 78, 78);
-  color: white;
-  font-family: "Roboto Mono", monospace;
+  background-color: rgb(255, 255, 255);
+  color: rgb(0, 0, 0);
+  font-family: "Space Grotesk", sans-serif;
 }
